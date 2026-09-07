@@ -5,7 +5,7 @@
 # CommandLineInitUtil.shouldUseDebugCommandLine) — without it the harness
 # cannot pass --load-extension.
 target_os = "android"
-target_cpu = "arm64"
+target_cpu = "arm"
 is_desktop_android = true
 is_debug = false
 is_official_build = false
