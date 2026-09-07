@@ -9,7 +9,7 @@
 #
 # chrome_pgo_phase=0 avoids the PGO-profile fetch/lookup failure mode.
 target_os = "android"
-target_cpu = "arm64"
+target_cpu = "arm"
 is_desktop_android = true
 is_debug = false
 is_official_build = true
